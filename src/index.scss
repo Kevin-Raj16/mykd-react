@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'berlin_sans_fb_demibold';
+  src: url('/assets/fonts/berlin_sans_fb_demi_bold-webfont.woff2') format('woff2'),
+      url('/assets/fonts/berlin_sans_fb_demi_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@import '../public/assets/css/flaticon.css';
+@import '../public/assets/css/fontawesome-all.min.css';
+@import '../public/assets/css/spacing.css';
+@import '../public/assets/css/odometer.css';
+@import '../public/assets/css/tg-cursor.css';
+@import '../public/assets/css/animate.min.css';
+@import '../public/assets/scss/main.scss';
